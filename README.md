@@ -1,6 +1,7 @@
 # Embedded-Systems-Laboratory-Assignments
 
 This repository was made to display laboratory assignments from the following courses:
+
 ESE 280: Embedded Systems Design I
 ESE 382: Embedded Systems Design II
 
